@@ -3,6 +3,7 @@
 A wiki of meditation — view, practice, phenomenology — compiled from primary sources and grown chapter by chapter. Current foundation is *Roaring Silence: Discovering the Mind of Dzogchen* by Ngakpa Chögyam and Khandro Déchen (Shambhala, 2002), a Nyingma handbook of the Four Naljors (Sem-dé ngöndro in the Aro gTér lineage). The wiki begins here because this book sets a precise, technical, non-romantic register: it treats thought as a sense, distinguishes *Mind* from *mind*, and frames shi-nè as thought-attachment withdrawal sharpened by *negative* definition (what it is *not*: prayer, relaxation, contemplation, introspection). As more sources are ingested, the wiki will generalize across contemplative traditions while preserving lineage-specific precision.
 
 ## Recent Activity
+- [2026-04-22] meta | added author-site backlink in footer — closes the loop with [petrelaskov.github.io](https://petrelaskov.github.io/) which links to this wiki from Projects
 - [2026-04-22] query | Lion's Roar metaphor — user asked what the tradition intends with *seng-gé'i dra*; filed as [[Lion's Roar - Deep Reading]] analysis page, cross-linked from the concept page
 - [2026-04-22] ingest | *Roaring Silence* Ch.1 "Sky and Mind" — 10 new pages (Ch.1 source, Three Qualifications, Tantric Ngöndro, Boredom, Hidden Agenda Criteria, Gom, rLung, Relaxation, Base of Dzogchen, Changchub-sem, Testing the Teacher, Three Diseases of Shi-nè); major expansion of Shi-nè; updates to Four Naljors, Ngöndro, Sem-dé, Dzogchen, Mi-thogpa, Mind and mind, Reference Points, Roaring Silence
 - [2026-04-22] ingest | *Roaring Silence* Introduction — 21 pages covering Dzogchen, Four Naljors, Shi-nè, View-Meditation-Action, Mind/mind, Thought as Sense, authors, lineage, and core terminology
@@ -59,3 +60,7 @@ The Old Translation school of Tibetan Buddhism and the Aro gTér cycle this book
 - [[Roaring Silence]] — the book (9, 🌿)
 - [[Roaring Silence - Introduction]] — source page for chapter 00c (9, 🌿)
 - [[Roaring Silence - 01 Sky and Mind]] — source page for chapter 1: preparation, ngöndro parallels, negative definition of shi-nè, boredom-as-threshold (9, 🌿)
+
+---
+
+*Compiled by [Petre Laskov](https://petrelaskov.github.io/) — part of a larger public second brain.*
