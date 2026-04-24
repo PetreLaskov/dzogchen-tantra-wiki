@@ -6,7 +6,7 @@ domain: [dzogchen]
 importance: 9
 confidence: established
 tags: [foundational, view, tibetan-term]
-aliases: [rNal ma, natural condition, natural simplicity]
+aliases: [natural condition, natural simplicity]
 sources: [raw/roaring-silence/Roaring Silence - 00c Introduction.md]
 updated: 2026-04-22
 ---

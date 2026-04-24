@@ -2,12 +2,22 @@
 type: concept
 thesis: "Seng-gé'i dra — the lion's roar of reality — is the technical image for Dzogchen's declaration of natural simplicity. It is a roaring silence: self-existent proclamation of self-existent confidence, requiring no reference points. Not a threat, though it intimidates those who have taken refuge in timidity — the lion does not roar to intimidate, only because that is what a lion simply does."
 status: 🌱
-domain: [dzogchen]
-importance: 6
+domain:
+  - dzogchen
+importance: 8
 confidence: established
-tags: [foundational, metaphor, tibetan-term, confidence]
-aliases: [seng-gé'i dra, seng ge'i sGra, lion's roar, roaring silence]
-sources: [raw/roaring-silence/Roaring Silence - 00c Introduction.md]
+tags:
+  - foundational
+  - metaphor
+  - tibetan-term
+  - confidence
+aliases:
+  - seng-gé'i dra
+  - seng ge'i sGra
+  - lion's roar
+  - roaring silence
+sources:
+  - raw/roaring-silence/Roaring Silence - 00c Introduction.md
 updated: 2026-04-22
 ---
 

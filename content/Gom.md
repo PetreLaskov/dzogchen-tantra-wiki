@@ -7,8 +7,8 @@ importance: 4
 confidence: established
 tags: [tibetan-term, umbrella-term, translation]
 aliases: [sGom, gom, meditation (Tibetan), meditation]
-sources: [raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md]
-updated: 2026-04-22
+sources: [raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md, raw/roaring-silence/Roaring Silence - 02 Thoughts and Clouds.md]
+updated: 2026-04-23
 ---
 
 # Gom
@@ -42,14 +42,16 @@ into one category. Each of these, in Tibetan discourse, has a distinct name. The
 
 ## The Meditation Adage
 
-The chapter gives a Tibetan saying about gom:
+The Tibetan saying about gom:
 
 > *"Meditation — isn't. Getting used to — is."*
 
-Meditation "isn't" because it is not an end in itself. "Getting used to" *is*, because the enlightened state is already there and practice is the gradual becoming-accustomed to — cooperating with — that state. This inverts the ordinary framing in which meditation is a discrete activity with discrete outcomes.
+Ch.1 states it; Ch.2 closes on it. The "getting used to" translation of *gom* is not just a gloss — it is the term's core, and the saying turns on it. Meditation "isn't" because it is not a discrete activity with a discrete outcome; "getting used to" *is* because the enlightened state is already the case and practice is acclimatization to it. Full reading: **[[Meditation Isn't Getting Used To Is]]**.
 
 ## Related
 
 - [[Shi-nè]] — the specific gom developed in *Roaring Silence*
+- [[Meditation Isn't Getting Used To Is]] — the gom adage, unpacked
 - [[rLung]] — the object of rLung-gom
-- [[Roaring Silence - 01 Sky and Mind]] — source
+- [[Roaring Silence - 01 Sky and Mind]] — source (adage stated)
+- [[Roaring Silence - 02 Thoughts and Clouds]] — source (adage unpacked)

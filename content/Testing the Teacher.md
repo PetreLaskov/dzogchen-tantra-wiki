@@ -7,8 +7,8 @@ importance: 6
 confidence: established
 tags: [lama-relationship, discernment, devotion, incongruence]
 aliases: [testing the Lama, evaluating the teacher, teacher verification]
-sources: [raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md]
-updated: 2026-04-22
+sources: [raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md, raw/roaring-silence/Roaring Silence - 06 Flight.md]
+updated: 2026-04-23
 ---
 
 # Testing the Teacher
@@ -51,6 +51,24 @@ So "testing the teacher" is not the shopping-around mode it can appear as from o
 
 Dzogchen is not practiceable beyond shi-nè without [[Transmission in Dzogchen|transmission]]. Transmission requires a qualified Lama. A Lama without experience cannot transmit what they do not have — so the stakes of the test are not optional. At the same time, the testing is done by *doing the relationship* rather than by a checklist: practice, watch for incongruence, notice whether devotion deepens or strains.
 
+## Ch.6 — Verification Through Experience as a General Principle
+
+Ch.6 generalizes the "test the teacher through your own practice" principle into a **universal epistemic rule** for Buddhist study:
+
+> *"There is no point in taking these explanations on trust. It is vital to verify the material through experience. Anything that is accepted for any reason apart from its being consistent with one's firsthand experience will eventually become an obstacle. The method of shi-nè should be employed in order to discover whether these explanations are valid."*
+
+The "eventually-become-an-obstacle" formulation is sharp. Uncritically accepted teaching is not merely useless — it is *prospectively damaging*. Three reasons the damage is structural:
+
+- **Unverified material gets incorporated as reference points.** What was supposed to dismantle reference-point dependence becomes a new class of reference point ("I know what realization is because my teacher said…"). The teaching is weaponized for the exact operation it was meant to interrupt.
+- **Unverified acceptance masks the practitioner's actual experience.** The practitioner stops noticing what is actually happening in their sit because they already "know" what should be happening. See [[Three Diseases of Shi-nè|distortion]] — the sit gets shaped toward the pre-accepted model.
+- **The obstacle compounds over time.** A single unverified acceptance is a small inefficiency. Years of unverified acceptance build a shadow curriculum that blocks the real one. The student becomes un-teachable not through resistance but through mis-anchored agreement.
+
+The footnote at the end of Ch.6 makes the generalization explicit: *"This actually applies to the study of any Buddhist method or to hearing oral teachings from Lamas."* The Ch.6 principle is the same as the Ch.1 testing-the-teacher principle applied at the level of individual statements rather than whole teachers.
+
+The consequence for the Lama-disciple relationship is nuanced: one *does* take guidance from the Lama (Ch.1 warns against contesting Lama-guidance from books), but one holds every explanation up against one's own practice-issued recognition. These are compatible — the first is about the *relationship*, the second is about *internalization*. A student who faithfully follows Lama-guidance without checking in practice is not a better student; they are a student whose eventual development will collide with the un-internalized material.
+
+See [[Conventional Logic and Realized Reasoning]] for the methodological frame, and [[Fear of Flying]] for the resistance that typically presents when verification-through-experience is taken seriously.
+
 ## The Empty-Bowl Analogy
 
 Ch.1 places this discussion alongside the tea-bowl story (Kyabjé Chhi'mèd Rig'dzin Rinpoche, 1994): "If your bowl is full, you can receive no more tea. To receive fresh tea, you must first drain or empty your bowl." Testing the teacher is partly a test of one's own bowl — whether one is able to receive at all. Sometimes what looks like teacher-inadequacy is student-bowl-fullness or -dirtiness.
@@ -60,4 +78,7 @@ Ch.1 places this discussion alongside the tea-bowl story (Kyabjé Chhi'mèd Rig'
 - [[Ngakpa Chögyam]], [[Khandro Déchen]] — the authors, as Lamas
 - [[Transmission in Dzogchen]] — why teacher-quality matters operationally
 - [[Three Qualifications]] — the prior dispositions that precede seeking a Lama
+- [[Conventional Logic and Realized Reasoning]] — the methodological frame for verification through experience
+- [[Fear of Flying]] — the resistance that often disguises itself as "I can't accept this without proof"
 - [[Roaring Silence - 01 Sky and Mind]] — source
+- [[Roaring Silence - 06 Flight]] — source of the "eventually become an obstacle" principle and the general verification rule

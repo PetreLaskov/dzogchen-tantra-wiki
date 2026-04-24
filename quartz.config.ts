@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Meditation Wiki",
+    pageTitle: "Aro Ter Dzogchen+Tantra Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

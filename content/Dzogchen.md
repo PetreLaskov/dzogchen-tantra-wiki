@@ -7,8 +7,8 @@ importance: 10
 confidence: established
 tags: [foundational, view, nyingma, tibetan-term]
 aliases: [rDzogs chen, Great Completion, Great Perfection, Utter Totality]
-sources: [raw/roaring-silence/Roaring Silence - 00c Introduction.md, raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md]
-updated: 2026-04-22
+sources: [raw/roaring-silence/Roaring Silence - 00c Introduction.md, raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md, raw/roaring-silence/Roaring Silence - 05 Ocean and Waves.md, raw/roaring-silence/Roaring Silence - 07 Journey into Vastness.md]
+updated: 2026-04-23
 ---
 
 # Dzogchen
@@ -18,6 +18,7 @@ updated: 2026-04-22
 ## Key Points
 
 - **Utter totality** is a term applied to the teaching, to the practice, and to the intrinsic condition of the individual — these are not three different referents but one.
+- **Ch.5 gloss: "uncreated self-existent completeness."** Three words, each load-bearing: *uncreated* — not produced by practice (practice uncovers); *self-existent* — needing no reference point outside itself ([[Reference Points]]); *completeness* — not lacking, as the sense of incompleteness has no basis when sought directly.
 - **The enlightened state is already there** as the basis of what we are. "There is nothing to change — nothing to give up or alter in any way."
 - **The entire instruction** can be given in five words: *remain in the [[Natural State|natural state]]*.
 - **The paradox**: the natural state is so close, so accessible, so present, so simple that — for complex beings — it is unreachable by any means that resembles what we usually mean by "direct." Hence the need for [[View Meditation Action|view, meditation, and action]].
@@ -25,6 +26,32 @@ updated: 2026-04-22
 - **The [[Base of Dzogchen|base]] must be reached to enter.** Dzogchen has as its base the **experience of nonduality** — at minimum "a series of brief flashes." Without the base, methods are "merely affectations" and the practitioner is "barred from the path by the path itself." Ngöndro (symbolic via [[Tantric Ngöndro]], or nonsymbolic via [[Four Naljors]]) is the route to the base.
 - **[[Lion's Roar of Reality|Lion's roar]]** (seng-gé'i dra) is the metaphor for Dzogchen's declaration of natural simplicity — self-existent proclamation of self-existent confidence, needing no [[Reference Points|reference points]].
 - **The Buddha of Dzogchen** (first human teacher) is Garab Dorje; for the Aro gTér cycle, Yeshé Tsogyel holds this position.
+
+## Ch.7 — Limitlessness Beyond Oceanic and Individuated Experience
+
+Ch.7 adds the sharpest single-sentence view-formulation in Part Two:
+
+> *"The experience of enlightenment goes beyond both oceanic and individuated experience and enters into limitlessness, in which such distinctions are meaningless."*
+
+Three structural specifications this adds to the Dzogchen view:
+
+- **Not regression.** Dzogchen is not a return to infantile merger (oceanic experience without individuation). "Nondual perception does not regress toward infantilism."
+- **Not oscillation.** Dzogchen is not a balanced middle-point, skillful alternation, or dialectical synthesis that preserves the polarity. *"Neither does it oscillate between polarized perceptions of reality."*
+- **Limitlessness.** Dzogchen is the register in which the oceanic/individuated polarity *itself* is meaningless — not because both poles are dissolved into a third but because the polarity was only ever an artifact of dualistic vision.
+
+See [[Oceanic Experience]] for the polarity's elaboration; [[Fluxing Web]] for the ontology in which the polarity's dualism is foreclosed; [[Divorced Individuation]] for the specific pathology of ordinary adult perception within the polarity.
+
+### "Form Is Emptiness, Emptiness Is Form" — The Ch.7 Deployment
+
+Ch.7 uses the Heart Sutra formulation to name Dzogchen's alternative to the two conventional religious views (merge-with vs. eternal-separateness-from):
+
+> *"This possibility is one in which form is emptiness and emptiness is form. In this possibility, patterns continually change. Form emerges from chaos and dissolves back into chaos — chaos and form dance a beginningless dance in which each reflects the other."*
+
+Three points:
+
+- **Dzogchen is a recognition, not a doctrine.** The Heart Sutra formula is recognized as the case, not believed as the position.
+- **Patterns continually change.** The view is dynamic (the [[Fluxing Web|fluxing web]]).
+- **Beginningless dance.** Chaos and form dance beginninglessly — no origin-story, no creation, no starting point to explain the present.
 
 ## Dzogchen View in Relation to Intellect
 
@@ -54,3 +81,8 @@ The view is tested in the laboratory of personal experience. The metaphor given 
 - [[Lion's Roar of Reality]] — the metaphor for Dzogchen's declaration
 - [[Mind and mind]] — the capitalization convention for *sem-nyid* vs *sem*
 - [[View Meditation Action]] — the three aspects of the Dzogchen path
+- [[Oceanic Experience]] — the polarity Dzogchen's limitlessness goes beyond
+- [[Fluxing Web]] — the Ch.7 ontology underlying the view
+- [[Kuntuzangmo]] — the anthropomorphic representation of the nondual state
+- [[Lha-tong]] — the second naljor; further vision beyond emptiness
+- [[Roaring Silence - 07 Journey into Vastness]] — Ch.7 source; limitlessness beyond oceanic and individuated experience

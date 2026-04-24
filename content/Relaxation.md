@@ -7,8 +7,8 @@ importance: 6
 confidence: established
 tags: [foundational, terminology, affect, false-friend]
 aliases: [Dzogchen relaxation, primal purity (relaxation), relative relaxation, partial relaxation]
-sources: [raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md]
-updated: 2026-04-22
+sources: [raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md, raw/roaring-silence/Roaring Silence - 11 Appendix 1 Questions and Answers.md]
+updated: 2026-04-23
 ---
 
 # Relaxation
@@ -64,6 +64,24 @@ Dzogchen relaxation:
 
 The first is cyclic; the second is not.
 
+## Ch.11 — Wisdom of Insecurity = Relaxing in Insecurity
+
+Ch.11 (Appendix 1) §3 supplies a practical Dzogchen-relaxation gesture for the off-cushion situation: **the wisdom of insecurity**.
+
+> *"Accepting or relaxing in that insecurity is in itself a practice. This is the wisdom of insecurity."* (NCR, Ch.11)
+
+The Dzogchen-relaxation principle (the total relaxation of everything into its own condition of primal purity) here gets a specific everyday-life form: *relaxing in insecurity*. Not technique-based stress-relief, not pretending insecurity is somewhere else — *relaxing into the insecurity itself*, as a primary form of the larger relaxation-into-one's-own-condition that Dzogchen names.
+
+Why this is relaxation in the Dzogchen sense:
+
+- **The insecurity is the form of one's actual condition** in the moment — the [[Hidden Agenda Criteria|five markers]]' demand for solid, permanent, separate, continuous, defined being is failing to be met, and the failure shows itself as insecurity.
+- **Relaxing into the insecurity** is therefore relaxing into one's actual condition rather than into the temporary release-state of ordinary relaxation.
+- **It is "uninhibited interaction with reality"** — the practitioner stops fighting the failure of the markers to deliver what they promise, and what was experienced as insecurity reveals itself as the openness it always was.
+
+This is *not* "accepting that life is hard" or "being okay with bad feelings." It is a structurally Dzogchen gesture: the appearance of insecurity is the appearance of one's condition; relaxing into the appearance is relaxing into the condition; the condition recognized is primal purity.
+
+The connection to [[Mistrust of Existence]] is direct: insecurity is the affective form of mistrust in a particular off-cushion situation (typically: confusion in reading or conversation). The wisdom of insecurity is mistrust's relational counter-gesture, and is structurally the same as Dzogchen-relaxation operating in everyday life.
+
 ## Related
 
 - [[Shi-nè]] — the practice whose early phases *feel* non-relaxing but whose fruit is relaxation in the Dzogchen sense
@@ -71,3 +89,6 @@ The first is cyclic; the second is not.
 - [[Boredom]] — what shi-nè's early phases actually deliver
 - [[Hidden Agenda Criteria]] — the structure whose confrontation prevents relief-style relaxation
 - [[Roaring Silence - 01 Sky and Mind]] — source
+- [[Roaring Silence - 11 Appendix 1 Questions and Answers]] — Ch.11 wisdom of insecurity as everyday-life Dzogchen-relaxation gesture
+- [[Mistrust of Existence]] — the substrate insecurity is the affective form of
+- [[Attuned Intent]] — the motivation-form wisdom of insecurity enables

@@ -7,8 +7,8 @@ importance: 5
 confidence: established
 tags: [foundational, tibetan-term, state, cognition]
 aliases: [state without thought, mi thogpa, mi-togpa]
-sources: [raw/roaring-silence/Roaring Silence - 00c Introduction.md, raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md]
-updated: 2026-04-22
+sources: [raw/roaring-silence/Roaring Silence - 00c Introduction.md, raw/roaring-silence/Roaring Silence - 01 Sky and Mind.md, raw/roaring-silence/Roaring Silence - 09 The Vivid Portal.md]
+updated: 2026-04-23
 ---
 
 # Mi-thogpa
@@ -27,10 +27,27 @@ updated: 2026-04-22
 
 The prefix *mi-* is a simple negation (Tibetan *mi* = "not"), but mi-thogpa is not defined by what it lacks. The name is a pointer — *something not-thought-like* — rather than a description. The positive content (openness, clarity, spontaneous arising of sense fields) cannot be captured conceptually, because conceptualization is what the state suspends. This is typical of Dzogchen terminology: many technical terms point by negation at something that is not intrinsically negative.
 
+## Ch.9 — Mi-thogpa as the Abiding Pole of the Nyi'mèd Alternation
+
+Ch.9 *The Vivid Portal* reframes mi-thogpa from *state contrasted with thought* (the Ch.1 / Introduction reading) to *one pole of the nyi'mèd alternation*. The chapter uses **"mi-thogpa (or nè-pa)"** as interchangeable for the purpose of naming the non-arising pole:
+
+> *"Nyi'mèd happens when we find ourselves moving without design between the states of shi-nè and lha-tong. This natural movement simply presents itself, of itself — as soon as one finds the presence of awareness in the dimensions of mi-thogpa (or nè-pa) and gYo-wa."*
+
+- **Mi-thogpa ≡ nè-pa in this context.** Ch.9 treats them as interchangeable for the purpose of naming the abiding pole. They are not strictly synonymous across the corpus — *mi-thogpa* emphasizes the state-without-thought as phenomenological condition; *[[Nè-pa|nè-pa]]* emphasizes its abiding-character as one pole — but for Ch.9's purposes the distinction is not load-bearing.
+- **Mi-thogpa and thogpa have one taste.** *"Mi-thogpa has the same taste as thogpa"* — this is one of Ch.9's formulations of the [[One Taste|one taste]] (*ro-chig*) claim. The state-without-thought and the state-of-thought-arising disclose themselves as having a single character of experiencing when nyi'mèd manifests. Thought is not the opposite of mi-thogpa at this register — it is *thought arising as meditation* (*namthog gomdu charwa*). See [[Namthog]].
+- **Mi-thogpa is not the goal.** At the nyi'mèd register, treating mi-thogpa as preferable to the movement of namthogs is precisely the pattern Ch.8 diagnosed as the **absence addict** and Ch.9 excludes from nyi'mèd's condition-specification. Nyi'mèd is "the capacity to dwell in either mi-thogpa or gYo-wa" — either, without preference.
+- **Mi-thogpa's "positive" content becomes Mi-thogpa's taste.** The name is a negation (*mi-* = "not"), but what the practitioner finds in mi-thogpa is a positive quality of experiencing that turns out to have one taste with the quality of experiencing thogpa. The negation is a *pointer* (see above), not a description.
+
 ## Related
 
 - [[Shi-nè]] — practice that makes mi-thogpa evident
+- [[Nè-pa]] — Ch.9's interchangeable term for the abiding pole; the structural counterpart to gYo-wa
+- [[Nyi'med]] — the naljor whose alternation moves between mi-thogpa and gYo-wa
+- [[One Taste]] — mi-thogpa and thogpa share one taste
+- [[gYo-wa]] — the movement pole; mi-thogpa's partner
+- [[Namthog]] — the contraction-of-*namthog gomdu charwa* gloss
 - [[Thought as Sense]] — what becomes visible from mi-thogpa
 - [[Mind and mind]] — the sem / sem-nyid ground
 - [[Base of Dzogchen]] — nonduality is the Dzogchen base; emptiness (≡ mi-thogpa) is the Tantric adjacent
 - [[Natural State]] — the larger condition mi-thogpa is an aspect of
+- [[Roaring Silence - 09 The Vivid Portal]] — source: mi-thogpa as abiding pole of the nyi'mèd alternation
