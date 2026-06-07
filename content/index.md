@@ -182,4 +182,4 @@ The primary books and their chapter source-pages.
 
 ---
 
-*Compiled by [Petre Laskov](https://petrelaskov.github.io/) — part of a larger public second brain.*
+*Compiled by [Petre Laskov](https://petrelaskov.xyz/) — part of a larger public knowledge base.*
